@@ -1,0 +1,75 @@
+
+[
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/2x/inbox",
+    "imgtext": "inbox",
+    "count": "2,957",
+    "active": true
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/2x/star",
+    "imgtext": "Starred",
+    "count": null,
+    "active": false
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/2x/schedule",
+    "imgtext": "Snoozed",
+    "count": null,
+    "active": false
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/2x/send",
+    "imgtext": "Send",
+    "count": null,
+    "active": false
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/2x/draft",
+    "imgtext": "Drafts",
+    "count": null,
+    "active": false
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/2x/expand",
+    "imgtext": "more",
+    "count": null,
+    "active": true
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/label_important",
+    "imgtext": "Important",
+    "count": null,
+    "active": false
+  },
+  {
+    "img": "https://www.gstatic.com/images/icons/material/system_gm/1x/chat_black_20dp.png",
+    "imgtext": "chats",
+    "count": null,
+    "active": false
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/schedule_send",
+    "imgtext": "Scheduled",
+    "count": null,
+    "active": false
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/stacked_email",
+    "imgtext": "all mail",
+    "count": null,
+    "active": false
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/report",
+    "imgtext": "spam",
+    "count": null,
+    "active": false
+  },
+  {
+    "img": "https://ssl.gstatic.com/ui/v1/icons/mail/gm3/1x/delete",
+    "imgtext": "Trash",
+    "count": null,
+    "active": false
+  }
+]
